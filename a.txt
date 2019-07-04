@@ -1,0 +1,7 @@
+For Azure DevOps:
+Build(created artifect)---> release(copy to server)---> Deploy(go to server and start)
+
+You need to import repo
+build the code and create artifects
+copy the artifect to VM(Release)
+deply the code in VM
